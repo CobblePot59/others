@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/CobblePot59/digispark/master/digispark.jpg)
+![alt text](https://raw.githubusercontent.com/CobblePot59/Others/digispark/digispark.jpg)
 
 
 The Digispark is an Attiny85 based microcontroller development board similar to the Arduino line,
